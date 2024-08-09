@@ -1,0 +1,20 @@
+.container {
+  background-color: #d0cfe6;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  margin-left: 40%;
+}
+.clock {
+  height: 50px;
+  width: 150px;
+  background-color: rgb(188, 183, 21);
+  border: 1px solid black;
+  margin-left: 25%;
+  margin-top: 10px;
+  border-radius: 8px;
+  padding-top: 25px;
+  font-size: 20px;
+}
